@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Barriecito', cursive;
+    color: beige;
+
+}
+
+body{
+    padding: 0;
+    background-image: url("fox.jpg");
+    background-repeat: no-repeat;
+}
+div{
+    padding: 0 10%;
+
+}
+h1 {
+    padding: 1% 0 1% 10%;
+    background-color: whitesmoke;
+    color: burlywood;
+
+}
+h2 {
+    margin: 0;
+    padding: 2% 0;
+
+}
+#title{
+    margin: 0.5cm 0 0.1cm 0;
+}
+#content{
+    width: 100%;
+    margin: 0.3cm 0;
+    height: 2cm;
+
+}
+
+
+button{
+    margin: 0.5cm 0;
+    background-color: black;
+    color: forestgreen;
+}
+
+.blogpost {
+    margin: 0.5cm 0;
+    padding: 0;
+    border: 2px solid black;
+}
+
+h3{
+    padding: 0.2cm 0;
+}
+
+.blogpost p{
+    padding: 0.2cm 0 0.2cm 0.3cm;
+}
